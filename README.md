@@ -4,8 +4,10 @@
 This Power BI dashboard analyzes employee job classifications, average base salaries, and workforce distribution.
 
 ### 📁 Dataset
-- `Average_Salary_by_Job_Classification.csv`
-- Source: Public dataset of job positions and salaries
+- **Source**: [Data.gov – Average Salary by Job Classification](https://catalog.data.gov/dataset/average-salary-by-job-classification)
+- Format: CSV
+- Fields include: Position Title, Grade, Average Base Salary, Number of Employees
+
 
 ### 💡 Features
 - Top 10 job titles by number of employees
