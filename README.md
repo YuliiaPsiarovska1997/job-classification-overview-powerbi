@@ -13,9 +13,6 @@ This Power BI dashboard analyzes employee job classifications, average base sala
 - Interactive filters and clean visuals
 - Custom title: *Job Classification Overview*
 
-### 📷 Screenshots
-![Dashboard preview](screenshots/preview.png)
-
 ### 🚀 Tools Used
 - Power BI Desktop
 - Power Query for data cleaning (salary column)
